@@ -1,8 +1,8 @@
 # Calico_kubeedge
 
-Just change this in deployment
+Just change this in deployment for (calico-kube-controllers deployment)
 
 spec:
-      nodeSelector:
-        calico: core
+  nodeSelector:
+    calico: core
        
